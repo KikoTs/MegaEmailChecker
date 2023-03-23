@@ -32,4 +32,4 @@ Contributions are always welcome! Please feel free to open an issue or a pull re
 
 ## 📬 Contact
 
-If you have any questions or comments, please feel free to contact me at [email protected].
+If you have any questions or comments, please feel free to contact me at kiriltsanov12@gmail.com.
